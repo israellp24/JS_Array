@@ -1,1 +1,1 @@
-# JS_Array
+# curso-manipulacion-de-arrays
